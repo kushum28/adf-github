@@ -1,0 +1,9 @@
+{
+	"name": "adf-kush",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0b9d05e7-a3a2-4ae0-b95e-c0afca3044eb",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
